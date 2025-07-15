@@ -138,7 +138,10 @@
 }
 
 .about__description3 {
-    margin-left: -60px;
+    margin-left: -30px;
+}
+.about__number3{
+    margin-left: 30px;
 }
 
 .about__contact {
