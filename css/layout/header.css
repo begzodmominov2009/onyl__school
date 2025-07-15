@@ -1,0 +1,18 @@
+.novbar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 71px;
+    align-items: center;
+}
+.novbar__contacts{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    font-size: 20px;
+}
+.novbar__contacts a{
+    color: black;
+}
+.novbar__desciription{
+    font-size: 36px;
+}

@@ -1,0 +1,17 @@
+footer{
+    margin-top: 133px;
+    margin-bottom: 200px;
+}
+.footer__contact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 55px;
+}
+.footer__description{
+    color: grey;
+    font-size: 24px;
+}
+footer hr{
+    color: gray;
+}
