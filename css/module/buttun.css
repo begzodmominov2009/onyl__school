@@ -51,6 +51,7 @@
     margin-left: 43px;
     border: none;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .hero2__button a {
@@ -65,12 +66,13 @@
 .contact__button {
     width: 264px;
     height: 80px;
-    background-color: ##6b5962bb;
+    background-color: #000000bb;
     font-size: 20px;
     border-radius: 10px;
     margin-top: 52px;
     transition: 0.5s;
     cursor: pointer;
+
 }
 
 .contact__button a {
@@ -79,4 +81,5 @@
 
 .contact__button:hover {
     background-color: #6b5962bb;
+
 }
