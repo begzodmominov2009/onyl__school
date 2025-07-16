@@ -1,7 +1,7 @@
 .novbar {
     display: flex;
     justify-content: space-between;
-    padding-top: 51px;
+    padding-top: 31px;
     align-items: center;
 
 }

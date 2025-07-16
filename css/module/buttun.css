@@ -7,10 +7,12 @@
     background: transparent;
     transition: 0.5s;
     cursor: pointer;
+    outline: none;
 }
 
 .novbar__button:hover a {
     color: white;
+
 }
 
 .novbar__button a {
@@ -20,6 +22,7 @@
 .novbar__button:hover {
     background-color: #6b5962bb;
     color: white;
+    border: none;
 }
 
 .hero__button {
@@ -72,6 +75,7 @@
     margin-top: 52px;
     transition: 0.5s;
     cursor: pointer;
+    border: none;
 
 }
 
