@@ -9,13 +9,14 @@
     cursor: pointer;
 }
 
-.novbar__button:hover a{
+.novbar__button:hover a {
     color: white;
-} 
-    
-.novbar__button a{
+}
+
+.novbar__button a {
     color: black;
 }
+
 .novbar__button:hover {
     background-color: #6b5962bb;
     color: white;
@@ -75,6 +76,7 @@
 .contact__button a {
     color: white;
 }
-.contact__button:hover{
+
+.contact__button:hover {
     background-color: #6b5962bb;
 }
